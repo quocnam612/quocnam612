@@ -1,9 +1,9 @@
 <h1 align="center">🔜 NQN 🔚</h1>
 
-<table>
-  <tr>
-    <td><strong>📌 Most Used Languages</strong></td>
-    <td>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><strong>📌 Most Used Languages</strong></td>
+    <td style="border: none;">
       <div align="right">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocnam612&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff">
