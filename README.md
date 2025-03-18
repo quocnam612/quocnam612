@@ -28,4 +28,12 @@
 </div>
 
 > [!IMPORTANT]
-> Whether you have feedback on features, have encountered any bugs, or have suggestions for enhancements, we're eager to hear from you. Your insights help us make the Abblix OIDC Server library more robust and user-friendly.
+> ⣿⣿⡿⠟⠛⠛⣿⠛⠛⠛⠛⢻⠛⠛⠛⢻⡟⠛⣿⣿⠛⢻⣿⣿⣿⣿⣿⣿
+> ⣿⣿⡇⠐⠿⣿⣿⣿⡇⢸⣿⣿⠄⢸⣿⣿⡇⠄⣿⣿⠄⢸⣿⣿⣿⣿⣿⣿
+> ⣿⣿⣿⣶⣤⠈⣿⣿⡇⢸⣿⣿⠄⢰⣶⣾⡇⠄⣿⣿⠄⢸⣿⣿⣿⣿⣿⣿
+> ⣿⣿⣇⣉⣁⣤⣿⣿⣇⣸⣿⣿⣀⣸⣿⣿⣿⣤⣈⣁⣤⣿⣿⣿⣿⣿⣿⣿
+> ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+> ⡿⢿⣿⡿⠿⣿⡿⢿⡿⠿⠿⠿⣿⡿⠿⠿⠿⣿⠿⠿⠿⠿⣿⣿⠿⠟⠿⣿
+> ⡇⠈⣿⠄⠄⣿⠃⣸⡇⠄⣶⣶⣿⡇⢰⣶⣶⣿⠄⢸⡷⠄⣿⡇⠰⢿⣶⣿
+> ⣿⠄⠋⢰⡆⠸⠄⣿⡇⠄⣤⣤⣿⡇⢠⣤⣤⣿⠄⢰⣤⠈⢻⣿⣦⣄⠈⢿
+> ⣿⣇⣀⣾⣷⣀⣸⣿⣇⣀⣉⣉⣹⣇⣈⣉⣉⣿⣀⣈⣉⣠⣾⣋⣉⣉⣠⣿
